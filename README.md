@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack!</h1>
 <h3 align="center">I'm making tools for Tabletop RPGs</h3>
 
-- 🔭 I’m currently working on [Traveller Character Generator](https://github.com/jmkellenberger/traveller-char-gen) and a Ruby rewrite of my [Markov Name Generator] (https://github.com/jmkellenberger/markov-name-generator)
+- 🔭 I’m currently working on [Traveller Character Generator](https://github.com/jmkellenberger/traveller-char-gen) and a Ruby rewrite of my [Markov Name Generator](https://github.com/jmkellenberger/markov-name-generator)
 
 - 🌱 I’m currently learning **Ruby on Rails, Elixir, and PostgreSQL**
 
