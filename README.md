@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Traveller Character Generator](https://github.com/jmkellenberger/traveller-char-gen) and a [Ruby gem](https://github.com/jmkellenberger/markov_namegen) based on my [Markov Name Generator](https://github.com/jmkellenberger/markov-name-generator)
 
-- 🌱 I’m currently learning **Ruby on Rails, Elixir, and PostgreSQL**
+- 🌱 I’m currently learning **Elixir and Ruby on Rails!**
 
 - 📫 Reach me @ **jackson@kellenberger.io**
 
